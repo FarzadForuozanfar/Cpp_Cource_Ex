@@ -1,1 +1,1 @@
-# Basic-ex-C-
+# Basic exercise C++
