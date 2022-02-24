@@ -1,5 +1,5 @@
 # Assignments :
-## Twiter :
+## Twitter :
 ![Twitter-logo svg](https://user-images.githubusercontent.com/91725214/155613730-69d5e8c9-224e-49a5-ad88-8317b0af50cb.png)
 - [x] Sign up & Log in with username & password
 - [x] Save User Info in .txt database
