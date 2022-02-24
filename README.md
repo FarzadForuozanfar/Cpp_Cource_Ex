@@ -1,2 +1,2 @@
-# Basic exercise C++
-Go to the ```Assignment``` folder
+
+# Go to the ```Assignment``` folder
