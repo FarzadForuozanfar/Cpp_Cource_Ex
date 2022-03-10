@@ -85,7 +85,6 @@ In a parallel world, we have a cat that lives and moves in only two dimensions. 
 Problem with Padsa recursive method
 
 ##  ```Find Nearest TA :```
-0
 ####
 ### Problem history:
 We have a number of exercise solutions with a two-dimensional address and name. We are going to write a program that announces the exercise solution closer to us.
