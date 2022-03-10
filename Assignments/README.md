@@ -90,6 +90,9 @@ Problem with Padsa recursive method
 We have a number of exercise solutions with a two-dimensional address and name. We are going to write a program that announces the exercise solution closer to us.
 ### How the program works:
 Using an extracted data with X and Y fields and the name of the exercise solution in another function, calculates and stores the Euclidean distance, and in another function compares distances and names.
-
+## Average Students:
+####
+How the program works:
+Using an extract data consisting of personal and academic information, the student can calculate the grade point average and save it in vector data and calculate the grade point average and conditional number of the student.
 
 
